@@ -22,6 +22,12 @@ a {
     /* text-decoration: none; */
 }
 
+.abt{
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+}
+
 footer {
     background-color: red;
     text-align: center;
