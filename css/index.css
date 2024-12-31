@@ -4,6 +4,9 @@ body {
 
 h1 {
     text-align: center;
+}
+
+#home-h1 {
     font-size: 36px;
     color: red;
 }
