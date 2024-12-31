@@ -6,12 +6,18 @@ h1 {
     text-align: center;
 }
 
+#home-h1 {
+    font-size: 36px;
+    color: red;
+}
+
 #link {
     display: flex;
     justify-content: space-around;
+    border-top: 2px double #ccc;
 }
 
-a{
+a {
     font-size: 20px;
     /* text-decoration: none; */
 }
