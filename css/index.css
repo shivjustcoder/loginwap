@@ -21,6 +21,11 @@ a {
     font-size: 20px;
     /* text-decoration: none; */
 }
+.cnt{
+    font-size: 42px;
+    text-align: center;
+    color: deeppink;
+}
 
 .abt{
     font-size: 40px;
